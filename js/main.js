@@ -59,11 +59,11 @@ colorChoose.forEach(e => {
         if(e.classList.contains('color-1')){
             primaryHue = 252;
         }else if(e.classList.contains('color-2')){
-            primaryHue = 52;
+            primaryHue = 20;
         }else if(e.classList.contains('color-3')){
             primaryHue = 352;
         }else if(e.classList.contains('color-4')){
-            primaryHue = 152;
+            primaryHue = 40;
         }else if(e.classList.contains('color-5')){
             primaryHue = 202;
         }
@@ -122,4 +122,12 @@ bg1.addEventListener('click', () => {
     bg2.classList.remove('active');
     bg3.classList.remove('active');
     changeBG();
+})
+
+/*===== Animation Text =====*/
+var typed = new Typed(".typing",{
+    strings: ["Web Developer", "Front-End Developer", "Web Designer"],
+    typeSpeed:100,
+    BackSpeed:60,
+    loop:true
 })
