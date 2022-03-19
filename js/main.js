@@ -126,8 +126,8 @@ bg1.addEventListener('click', () => {
 
 /*===== Animation Text =====*/
 var typed = new Typed(".typing",{
-    strings: ["Web Developer", "Front-End Developer", "Web Designer"],
-    typeSpeed:100,
-    BackSpeed:60,
+    strings: [ "","Web Developer", "Front-End Developer", "Web Designer"],
+    typeSpeed:150,
+    BackSpeed:150,
     loop:true
 })
