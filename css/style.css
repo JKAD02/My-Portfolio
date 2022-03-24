@@ -485,7 +485,7 @@ h3 {
 .project-item .details .title a:hover {
   color: var(--color-primary);
 }
-.project-item .details-text {
+.project-item .details-text, .project-item .tech-stack{
   font-size: var(--small-font-size);
   color: var(--color-gray);
   margin: 0.5rem 0;
@@ -496,6 +496,22 @@ h3 {
 }
 .project-item .meta a:not(:last-child) {
   margin-right: 0.5rem;
+}
+.project-item .tech-stack li{
+  display: inline-block;
+}
+.project-item .tech-stack li:not(:last-child){
+  margin-right: 0.6rem;
+}
+.project-item .tech-stack li:not(:last-child)::after{
+  content: '';
+  background-color: var(--color-gray);
+  border-radius: 50%;
+  display: inline-block;
+  height: 0.19rem;
+  width: 0.19rem;
+  margin-left: 0.6rem;
+  vertical-align: middle;
 }
 
 /*========== Contact ==========*/
