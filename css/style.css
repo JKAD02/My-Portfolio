@@ -500,6 +500,9 @@ h3 {
 .project-item .tech-stack li{
   display: inline-block;
 }
+.project-item .tech-stack li:hover{
+  color: var(--color-primary);
+}
 .project-item .tech-stack li:not(:last-child){
   margin-right: 0.6rem;
 }
