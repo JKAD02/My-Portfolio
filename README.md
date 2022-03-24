@@ -21,9 +21,15 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=jkad02&count_private=true&show_icons=true&theme=radical
+)
+
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=JKAD02&show_icons=true&theme=radical)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jkad28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jkad28" height="30" width="40" /></a>
+<a href="https://twitter.com/jkad28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jkad28" height="30" width="40" /></a>                 
 <a href="https://www.linkedin.com/in/jenish-kathrotiya-036213231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jenish-kathrotiya" height="30" width="40" /></a>
 <a href="https://medium.com/@jkad28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jkad28" height="30" width="40" /></a>
 </p>
@@ -39,4 +45,3 @@
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jkad02&show_icons=true&locale=en&layout=compact" alt="jkad02" /></p>
