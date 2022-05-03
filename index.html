@@ -546,26 +546,24 @@
                         </div>
                     </div>
                     <!-- contact form -->
-                    <form action="" class="contact-form padd-15">
+                    <form action="https://formspree.io/f/xoqrpbva"
+                    method="POST" class="contact-form padd-15">
                         <div class="contact-inputs">
                             <!-- contact content -->
                             <div class="contact-content">
-                                <input type="email" class="contact-input">
-                                <label for="" class="contact-label">Email</label>
+                                <input type="email" name="email" placeholder="Email" class="contact-input">
                                 <span></span>
                             </div>
                             <div class="contact-content">
-                                <input type="text" class="contact-input">
-                                <label for="" class="contact-label">Subject</label>
+                                <input type="number" name="number" class="contact-input" placeholder="Contact No.">
                                 <span></span>
                             </div>
                             <div class="contact-content contact-area">
-                                <textarea class="contact-input"></textarea>
-                                <label for="" class="contact-label">Message</label>
+                                <textarea class="contact-input" name="message" placeholder="Message"></textarea>
                                 <span></span>
                             </div>
                         </div>
-                        <a href="#" class="btn btn-default">Send Message</a>
+                        <button type="submit"><a  class="btn btn-default">Send Message</a></button>
                     </form>
                 </div>
             </div>
