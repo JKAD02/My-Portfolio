@@ -3,13 +3,11 @@
 <h3 align="center">A passionate Front-End developer from India</h3>
 <img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently compelte **Myntra**
+- 🔭 I’m currently Working **Windows 11**
 
 - 🌱 I’m currently learning **React-JS**
 
 - 👨‍💻 All of my projects are available at [https://jenish-kathrotiya.netlify.app/](https://jenish-kathrotiya.netlify.app/)
-
-- 📝 I regularly write articles on [https://medium.com/@JKAD28](https://medium.com/@JKAD28)
 
 - 💬 Ask me about **+91 9428144924**
 
