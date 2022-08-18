@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Front-End developer from India</h3>
 <img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently Working **Windows 11**
+- 🔭 I’m currently Working on **Windows 11**
 
 - 🌱 I’m currently learning **React-JS**
 
