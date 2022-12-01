@@ -507,6 +507,7 @@ h3 {
 .project-item {
   flex: 0 0 33.33%;
   max-width: 33.33%;
+  margin-bottom: var(--m-2-5);
 }
 
 .project-item .inner {
